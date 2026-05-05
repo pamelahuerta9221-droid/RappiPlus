@@ -119,6 +119,46 @@ Retail → eficiencia, automatización y escalabilidad Wholesale → gestión de
 
 6. Priorizar la retención y expansión de clientes de alto valor Enfocar esfuerzos en maximizar el valor de clientes existentes (especialmente wholesale) mediante estrategias de upselling, fidelización y contratos de largo plazo.
 
+
+</div>
+
+
+<p align="center">
+  <img src="screenshots/ingreso_cliente.png" width="800">
+</p>
+
+
+
+</div>
+
+
+<p align="center">
+  <img src="screenshots/ventas cliente.png" width="800">
+</p>
+
+
+
+</div>
+
+
+<p align="center">
+  <img src="screenshots/distribucion_costo.png" width="800">
+</p>
+
+
+
+</div>
+
+
+<p align="center">
+  <img src="screenshots/distribucion_MKT.png" width="800">
+</p>
+
+
+
+
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 💡 Insights de conversión
@@ -138,6 +178,19 @@ Otro riesgo es la posible pérdida de confianza del usuario en esta etapa final 
 Se recomienda priorizar la optimización del flujo de checkout, enfocándose especialmente en la transición de begin_checkout a add_payment_info. Algunas acciones clave incluyen simplificar el proceso de pago, reducir el número de pasos necesarios, mejorar la visibilidad de costos finales desde etapas tempranas y asegurar que los métodos de pago disponibles sean amplios y confiables para los usuarios.
 
 Adicionalmente, sería valioso implementar análisis segmentados por variables como dispositivo, país o fuente de adquisición para identificar si la fricción está concentrada en ciertos grupos de usuarios. Esto permitiría diseñar soluciones más específicas y efectivas. Finalmente, se sugiere realizar pruebas A/B sobre mejoras en la experiencia de checkout, así como monitorear métricas de abandono en tiempo real para validar el impacto de los cambios implementados.
+
+
+
+</div>
+
+
+<p align="center">
+  <img src="screenshots/funnel.png" width="800">
+</p>
+
+
+
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -190,6 +243,20 @@ No hay mejoras visibles en la experiencia o el producto no está evolucionando e
 
 5. Implementar medición continua y experimentación mediante pruebas A/B en onboarding, comunicación y funcionalidades clave.
 
+
+
+
+</div>
+
+
+<p align="center">
+  <img src="screenshots/retencion.png" width="800">
+</p>
+
+
+
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🧾Test Estadístico
@@ -227,10 +294,29 @@ orders_work.csv
 catalog_work.csv
 marketing_work.csv
 
+
 #### Dashboard 1: Overview Ejecutivo
 
 
+</div>
+
+
+<p align="center">
+  <img src="screenshots/d1.png" width="800">
+</p>
+
+
+
+
 #### Dashboard 2: Detalle / Drill-through
+
+
+</div>
+
+
+<p align="center">
+  <img src="screenshots/d2.png" width="800">
+</p>
 
 
 
