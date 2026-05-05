@@ -135,7 +135,7 @@ Wholesale → gestión de cuentas, relaciones y crecimiento de valor
 
 
 <p align="center">
-  <img src="screenshots/ventas cliente.png" width="800">
+  <img src="screenshots/ventas_cliente.png" width="800">
 </p>
 
 
