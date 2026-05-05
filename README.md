@@ -115,7 +115,9 @@ El alto volumen de retail puede llevar a enfocar esfuerzos en este segmento por 
 
 5. Implementar una estrategia comercial diferenciada por segmento Separar claramente la gestión de retail y wholesale:
 
-Retail → eficiencia, automatización y escalabilidad Wholesale → gestión de cuentas, relaciones y crecimiento de valor
+Retail → eficiencia, automatización y escalabilidad 
+
+Wholesale → gestión de cuentas, relaciones y crecimiento de valor
 
 6. Priorizar la retención y expansión de clientes de alto valor Enfocar esfuerzos en maximizar el valor de clientes existentes (especialmente wholesale) mediante estrategias de upselling, fidelización y contratos de largo plazo.
 
