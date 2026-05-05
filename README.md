@@ -21,6 +21,17 @@ experiment_checkout_ui.csv → resultados de un experimento A/B en el checkout
 
 ## 🗺️ Diagrama general del proyecto
 
+</div>
+
+
+<p align="center">
+  <img src="screenshots/diagrama.png" width="800">
+</p>
+
+
+
+<div align="center">
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 💡 Insights de rentabilidad
