@@ -286,7 +286,7 @@ Aunque se observa una ligera diferencia entre variantes, esta no es estadística
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Dashboard PowerBI
+## 📈Dashboard PowerBI
 
 Se creó un dashboard que muestra de manera clara y visual los resultados del análisis de ventas, costos, marketing y conversión.
 
